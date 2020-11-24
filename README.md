@@ -23,5 +23,5 @@ But if lives are at stake:
 
 ### ⚡ Fun fact:
 ```
-The distributed systems kill all your private life and they aren't even sorry for it 😥
+Distributed systems kill all your private life and they aren't even sorry for it 😥
 ```
