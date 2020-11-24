@@ -1,6 +1,6 @@
 <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lazylazyllama&theme=dark&show_icons=true" />
 
-- 🔭 I’m currently working on 
+
 ###🌱 I’m currently learning
 ```
 Life
