@@ -1,16 +1,27 @@
-### Hi there 👋
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lazylazyllama&theme=dark&show_icons=true" />
 
-<!--
-**lazylazyllama/lazylazyllama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 
+###🌱 I’m currently learning
+```
+Life
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask me about
+```
+The weather
+```
+
+
+### 📫 Contact:
+```
+I am afraid of people, so please don't.
+But if lives are at stake: 
+  - 📧 lasse.j.rosenow@gmail.com
+```
+
+
+### ⚡ Fun fact:
+```
+The distributed systems kill all your private life and they aren't even sorry for it 😥
+```
