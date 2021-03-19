@@ -1,6 +1,3 @@
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lazylazyllama&theme=dark&show_icons=true" />
-
-
 ###🌱 I’m currently learning
 ```
 Life
@@ -23,5 +20,5 @@ But if lives are at stake:
 
 ### ⚡ Fun fact:
 ```
-Distributed systems kill all your private life and they aren't even sorry for it 😥
+Sea cucumber can vomit their intestines for self defense. :)
 ```
