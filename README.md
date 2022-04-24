@@ -1,3 +1,9 @@
+<center>
+  
+![suffer](https://c.tenor.com/WyCGfaqlRzcAAAAC/suffer-now-suffer.gif)
+  
+</center>
+  
 ### 🌱 I’m currently learning
 ```
 Life
