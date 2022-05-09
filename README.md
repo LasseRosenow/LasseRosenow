@@ -18,5 +18,5 @@ The weather
 
 ### ⚡ Fun fact:
 ```
-Sea cucumber can vomit their intestines for self defense. :)
+Sea cucumbers can vomit their intestines for self defense. :)
 ```
