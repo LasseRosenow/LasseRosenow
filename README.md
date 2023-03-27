@@ -1,4 +1,4 @@
-# Fuck Putin
+# 🇺🇦 Fuck Putin
 
 <center>
   
