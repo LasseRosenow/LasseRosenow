@@ -1,4 +1,4 @@
-# 🇺🇦 Fuck Putin
+# 🇺🇦 Fuck all autocrats/despots/tyrants such as Putin
 
 <center>
   
@@ -23,6 +23,7 @@ The weather
 - Pretending to seem competent
 - Watching Anime and Star Wars (Weeb)
 - Martial Arts
+- Eating rich people
 ```
 
 
