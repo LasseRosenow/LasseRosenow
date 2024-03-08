@@ -1,4 +1,4 @@
-# 🇺🇦 Fuck all autocrats/despots/tyrants such as Putin
+# 🇺🇦 Fuck all autocrats/despots/tyrants such as Putin and make them:
 
 <center>
   
