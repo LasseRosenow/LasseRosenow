@@ -27,7 +27,7 @@ The weather
 ```
 
 
-### ⚡ Fun fact:
+### ⚡ Fun fact
 ```
 Sea cucumbers can vomit their intestines for self defense. :)
 ```
