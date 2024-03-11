@@ -18,7 +18,7 @@ The weather
 ```
 
 
-### Hobbies
+### 🥷 Hobbies
 ```
 - Pretending to seem competent
 - Watching Anime and Star Wars (Weeb)
