@@ -31,3 +31,5 @@ The weather
 ```
 Sea cucumbers can vomit their intestines for self defense. :)
 ```
+
+<a rel="me" href="https://hal9.ooo/@Lasse">Mastodon</a>
