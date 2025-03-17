@@ -35,4 +35,6 @@ Sea cucumbers can vomit their intestines for self defense. :)
 
 ---
 
-![suffer](./pride.svg)
+| Pride | Antifa |
+| - | - |
+| ![pride](./pride.svg) | ![antifa](./antifa.svg) |
